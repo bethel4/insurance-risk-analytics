@@ -4,4 +4,5 @@ __pycache__/
 *.pyc
 .env
 *.csv
-data/
+data/*
+!data/raw/*.dvc
